@@ -1,0 +1,41 @@
+@font-face {
+    font-family: origami;
+    src: url(fonts/Origami.ttf);
+		font-weight: bold;
+}
+
+body{
+	margin: 0 auto;
+	height: 100%;
+	width:100%;
+	margin-top: -36px;
+	padding: 0;
+	position: relative;
+}
+.header{
+
+	background-color:black;
+}
+h1{
+	padding-top: 291px;
+	text-align: center;
+	color: white;
+	font-size: 53px;
+	letter-spacing: 1px;
+
+
+}
+.button {
+    background-color: gold;
+    border-bottom-right-radius: 111px;
+    border-top-right-radius: 111px;
+    padding: 25px 51px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 19px;
+    margin-top: -37px;
+}
+.space{
+	padding-bottom:230px;
+}
